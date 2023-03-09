@@ -1,2 +1,2 @@
-0x00. Shell, basics
-DevOps Shell Bash
+0x00. Shell, basics \n
+DevOps Shell Bash \n
