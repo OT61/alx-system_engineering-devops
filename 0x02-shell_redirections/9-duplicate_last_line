@@ -1,0 +1,2 @@
+#!/bin/bash
+uinq tail -10 iacta
