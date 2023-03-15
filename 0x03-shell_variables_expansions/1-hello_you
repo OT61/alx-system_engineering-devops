@@ -1,2 +1,2 @@
 #!/bin/bash
-USER=root bash -c 'echo hello $USER'
+USER=MyUser bash -c 'echo hello $USER'
