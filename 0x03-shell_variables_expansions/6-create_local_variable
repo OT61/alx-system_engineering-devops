@@ -1,2 +1,2 @@
 #!/bin/bash
-Var1='BEST School' echo $Var1
+export BEST = 'School'
