@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST='School' echo $BEST
+Var1='BEST School' echo $Var1
